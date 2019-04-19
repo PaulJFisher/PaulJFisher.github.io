@@ -1,2 +1,4 @@
 name: Paul Fisher, PHD Student
 markdown: kramdown
+
+theme: jekyll-theme-slate
